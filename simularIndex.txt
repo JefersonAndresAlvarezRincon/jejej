@@ -12,5 +12,9 @@ aqui agregue un link para que pudiera acceder a otra vista
 modifique un href para que si accediera a la vista 1
 
 
+agregue otro link para que accesa a la vista 2
+modifique el href para que si accediera a la vista 2
+
+
 aqui va el js1
 aqui va el js2
