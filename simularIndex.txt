@@ -1,0 +1,13 @@
+
+este es el head
+
+aqui va el cc1
+aqui va el cc2
+
+hola
+este es mi index
+aqui va unas imagenes
+
+
+aqui va el js1
+aqui va el js2
