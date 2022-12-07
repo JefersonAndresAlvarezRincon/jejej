@@ -8,6 +8,9 @@ hola
 este es mi index
 aqui va unas imagenes
 
+aqui agregue un link para que pudiera acceder a otra vista
+modifique un href para que si accediera a la vista 1
+
 
 aqui va el js1
 aqui va el js2
